@@ -7,7 +7,7 @@
 ###
 
 <h2>Some of my featured projects</h2>
-<a href="https://github.com/eggoil166/Daily-Indigest"><h3>Daily Indigest</h3></a>
+<h3><a href="https://github.com/eggoil166/Daily-Indigest">Daily Indigest</a></h3>
 <p>Stack: Python, Flask, React, Google Gemini, Node.js, Rust, SpacetimeDB</p>
 <p>Best Data-Driven hack @HopHacks 2025 (Marshall Wace)</p>
 <p>An interactive visualization platform that maps tweets with location data and provides AI-powered trend explanations including sentiment analysis through Gemini API.</p>
@@ -15,14 +15,14 @@
 
 ***
 
-<a href="https://bearly-running.vercel.app"><h3>Bear Escape</h3></a>
+<h3><a href="https://bearly-running.vercel.app">Bear Escape</a></h3>
 <p>Stack: Python, Flask, React, Google Gemini, Node.js, Rust, SpacetimeDB, Three.js, OpenCV, websockets</p>
 <p>Best UI/UX and Best Use of Gemini API @BigRed//Hacks 2025<p>
 <p>Web-based rhythm game where players keep the beat to help a bear escape from a pursuing man. By matching notes in time with the music, the bear advances through the level, while missed beats let the pursuer catch up; multiplayer support with computer vision-based controls.</p>
 
 ***
 
-<a href="https://eggoil.vercel.app"><h3>Personal Website</h3></a>
+<h3><a href="https://eggoil.vercel.app">Personal Website</a></h3>
 <p>Stack: React, Typescript<p>
 <p>Terminal style viewer of my past experiences.<p>
 
@@ -34,13 +34,13 @@
 
 ***
 
-<a href="https://github.com/darthmaulsw/VibeCADing"><h3>Suzanne</h3></a>
+<h3><a href="https://github.com/darthmaulsw/VibeCADing">Suzanne</a></h3>
 <p>Stack: Python, Flask, TypeScript, React, Google Gemini, Node.js, Supabase, ElevenLabs</p>
 <p>Voice-driven 3D CAD model generation. Speak your ideas and see them rendered in 3D. Suzanne is a full-stack application that combines speech recognition, AI-powered CAD code generation, and real-time 3D visualization. Users describe 3D objects using voice input, and the system generates OpenSCAD code, converts it to STL files, and displays interactive 3D models. Support for Image-to-CAD and online AR experience using Oculus lenses.</p>
 
 ***
 
-<a href="https://github.com/eggoil166/aegis"><h3>Aegis</h3></a>
+<h3><a href="https://github.com/eggoil166/aegis">Aegis</a></h3>
 <p>Stack: Python, Flask, Python, Next.js, Gemini API, Ollama</p>
 <p>Multi-layer AI jailbreak detection system. Protect your AI applications from prompt injection attacks with advanced pattern matching, machine learning, and LLM-powered analysis. Aegis is a full-stack security platform that combines regex pattern matching, HuggingFace transformer models, and Google Gemini AI to detect and prevent jailbreak attempts in real-time. The system provides both detection and prompt rewriting capabilities through a modern, glassmorphic web interface.<p>
 
