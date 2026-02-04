@@ -1,5 +1,5 @@
 <h2>Hey, I'm eggoil</h1>
-<img align='right' src='cat.jpg' width="230">
+<img align='right' src='cat.jpg' width="140">
 <p><em>CS student @ University of Maryland</br>Research Associate @ NIST</em></p>
 
 <a href="https://linkedin.com/in/daniel-s-yi">
@@ -25,6 +25,10 @@ fn main() {
 ```
 
 <em>Definitely reach out to me! I'm more than happy to connect to different people!</em>
+
+<h2>My Current Project</h2>
+<a href="https://github.com/eggoil166/clipboard"><h4>Clipboard</h4></a>
+<h5>Rust, SQLite, WinAPI<br>Open source clipboard manager with history and graphical interface. Still has many to-dos, feel free to check out the readme and make a pull request!</h5>
 
 <h2>Some of my featured projects</h2>
 
