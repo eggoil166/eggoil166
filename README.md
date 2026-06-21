@@ -5,7 +5,7 @@
 <p>
   <em>
     CS/Math student @ University of Maryland<br>
-    Research Associate @ NIST
+    Research Associate @ NIST<br>
     SWE Intern @ OKC Thunder
   </em>
 </p>
